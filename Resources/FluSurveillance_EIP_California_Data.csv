@@ -1,0 +1,893 @@
+"Influenza Hospitalization Rates (per 100,000 population) for the FluSurv-NET Network (downloaded on "Feb-12-2020)
+Influenza Division - Centers for Disease Control and Prevention.
+CATCHMENT,NETWORK,SEASON,MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,CUMULATIVE RATE,WEEKLY RATE 
+California,EIP,2016-17,2016,40,0-4 yr,0,0
+California,EIP,2016-17,2016,41,0-4 yr,0,0
+California,EIP,2016-17,2016,42,0-4 yr,0,0
+California,EIP,2016-17,2016,43,0-4 yr,0,0
+California,EIP,2016-17,2016,44,0-4 yr,0,0
+California,EIP,2016-17,2016,45,0-4 yr,1,1
+California,EIP,2016-17,2016,46,0-4 yr,1.5,0.5
+California,EIP,2016-17,2016,47,0-4 yr,2.9,1.5
+California,EIP,2016-17,2016,48,0-4 yr,3.4,0.5
+California,EIP,2016-17,2016,49,0-4 yr,5.9,2.5
+California,EIP,2016-17,2016,50,0-4 yr,7.4,1.5
+California,EIP,2016-17,2016,51,0-4 yr,8.4,1
+California,EIP,2016-17,2016,52,0-4 yr,11.3,2.9
+California,EIP,2016-17,2017,1,0-4 yr,14.7,3.4
+California,EIP,2016-17,2017,2,0-4 yr,17.7,2.9
+California,EIP,2016-17,2017,3,0-4 yr,21.1,3.4
+California,EIP,2016-17,2017,4,0-4 yr,23.1,2
+California,EIP,2016-17,2017,5,0-4 yr,25.1,2
+California,EIP,2016-17,2017,6,0-4 yr,27,2
+California,EIP,2016-17,2017,7,0-4 yr,29,2
+California,EIP,2016-17,2017,8,0-4 yr,29.5,0.5
+California,EIP,2016-17,2017,9,0-4 yr,31.4,2
+California,EIP,2016-17,2017,10,0-4 yr,31.9,0.5
+California,EIP,2016-17,2017,11,0-4 yr,31.9,0
+California,EIP,2016-17,2017,12,0-4 yr,32.9,1
+California,EIP,2016-17,2017,13,0-4 yr,33.9,1
+California,EIP,2016-17,2017,14,0-4 yr,35.4,1.5
+California,EIP,2016-17,2017,15,0-4 yr,35.4,0
+California,EIP,2016-17,2017,16,0-4 yr,36.4,1
+California,EIP,2016-17,2017,17,0-4 yr,36.8,0.5
+California,EIP,2016-17,2016,40,5-17 yr,0,0
+California,EIP,2016-17,2016,41,5-17 yr,0.4,0.4
+California,EIP,2016-17,2016,42,5-17 yr,0.4,0
+California,EIP,2016-17,2016,43,5-17 yr,0.6,0.2
+California,EIP,2016-17,2016,44,5-17 yr,0.8,0.2
+California,EIP,2016-17,2016,45,5-17 yr,0.8,0
+California,EIP,2016-17,2016,46,5-17 yr,0.8,0
+California,EIP,2016-17,2016,47,5-17 yr,0.8,0
+California,EIP,2016-17,2016,48,5-17 yr,0.8,0
+California,EIP,2016-17,2016,49,5-17 yr,0.8,0
+California,EIP,2016-17,2016,50,5-17 yr,1.7,1
+California,EIP,2016-17,2016,51,5-17 yr,2.5,0.8
+California,EIP,2016-17,2016,52,5-17 yr,2.9,0.4
+California,EIP,2016-17,2017,1,5-17 yr,3.5,0.6
+California,EIP,2016-17,2017,2,5-17 yr,5.2,1.7
+California,EIP,2016-17,2017,3,5-17 yr,6.1,1
+California,EIP,2016-17,2017,4,5-17 yr,6.7,0.6
+California,EIP,2016-17,2017,5,5-17 yr,7.1,0.4
+California,EIP,2016-17,2017,6,5-17 yr,8.2,1.2
+California,EIP,2016-17,2017,7,5-17 yr,8.4,0.2
+California,EIP,2016-17,2017,8,5-17 yr,9.2,0.8
+California,EIP,2016-17,2017,9,5-17 yr,9.4,0.2
+California,EIP,2016-17,2017,10,5-17 yr,9.8,0.4
+California,EIP,2016-17,2017,11,5-17 yr,9.8,0
+California,EIP,2016-17,2017,12,5-17 yr,9.8,0
+California,EIP,2016-17,2017,13,5-17 yr,9.8,0
+California,EIP,2016-17,2017,14,5-17 yr,10,0.2
+California,EIP,2016-17,2017,15,5-17 yr,10,0
+California,EIP,2016-17,2017,16,5-17 yr,10,0
+California,EIP,2016-17,2017,17,5-17 yr,10,0
+California,EIP,2016-17,2016,40,18-49 yr,0,0
+California,EIP,2016-17,2016,41,18-49 yr,0,0
+California,EIP,2016-17,2016,42,18-49 yr,0.1,0.1
+California,EIP,2016-17,2016,43,18-49 yr,0.1,0
+California,EIP,2016-17,2016,44,18-49 yr,0.2,0.1
+California,EIP,2016-17,2016,45,18-49 yr,0.2,0
+California,EIP,2016-17,2016,46,18-49 yr,0.2,0
+California,EIP,2016-17,2016,47,18-49 yr,0.3,0.1
+California,EIP,2016-17,2016,48,18-49 yr,0.4,0.1
+California,EIP,2016-17,2016,49,18-49 yr,1,0.6
+California,EIP,2016-17,2016,50,18-49 yr,1.5,0.5
+California,EIP,2016-17,2016,51,18-49 yr,2.5,1
+California,EIP,2016-17,2016,52,18-49 yr,3.9,1.3
+California,EIP,2016-17,2017,1,18-49 yr,5.9,2
+California,EIP,2016-17,2017,2,18-49 yr,8,2.1
+California,EIP,2016-17,2017,3,18-49 yr,9.2,1.2
+California,EIP,2016-17,2017,4,18-49 yr,10.3,1.1
+California,EIP,2016-17,2017,5,18-49 yr,11.3,1.1
+California,EIP,2016-17,2017,6,18-49 yr,11.9,0.5
+California,EIP,2016-17,2017,7,18-49 yr,12.4,0.6
+California,EIP,2016-17,2017,8,18-49 yr,12.6,0.2
+California,EIP,2016-17,2017,9,18-49 yr,12.8,0.2
+California,EIP,2016-17,2017,10,18-49 yr,13.1,0.3
+California,EIP,2016-17,2017,11,18-49 yr,13.2,0.1
+California,EIP,2016-17,2017,12,18-49 yr,13.3,0.1
+California,EIP,2016-17,2017,13,18-49 yr,13.5,0.2
+California,EIP,2016-17,2017,14,18-49 yr,13.6,0.1
+California,EIP,2016-17,2017,15,18-49 yr,13.7,0.1
+California,EIP,2016-17,2017,16,18-49 yr,13.8,0.1
+California,EIP,2016-17,2017,17,18-49 yr,13.9,0.1
+California,EIP,2016-17,2016,40,50-64 yr,0,0
+California,EIP,2016-17,2016,41,50-64 yr,0.4,0.4
+California,EIP,2016-17,2016,42,50-64 yr,0.9,0.4
+California,EIP,2016-17,2016,43,50-64 yr,1,0.1
+California,EIP,2016-17,2016,44,50-64 yr,1.1,0.1
+California,EIP,2016-17,2016,45,50-64 yr,2,0.9
+California,EIP,2016-17,2016,46,50-64 yr,2.7,0.7
+California,EIP,2016-17,2016,47,50-64 yr,3.4,0.7
+California,EIP,2016-17,2016,48,50-64 yr,3.7,0.3
+California,EIP,2016-17,2016,49,50-64 yr,4.7,1
+California,EIP,2016-17,2016,50,50-64 yr,5.8,1.1
+California,EIP,2016-17,2016,51,50-64 yr,8.7,2.8
+California,EIP,2016-17,2016,52,50-64 yr,15.1,6.4
+California,EIP,2016-17,2017,1,50-64 yr,25.2,10.1
+California,EIP,2016-17,2017,2,50-64 yr,35.2,10
+California,EIP,2016-17,2017,3,50-64 yr,43.1,8
+California,EIP,2016-17,2017,4,50-64 yr,46.6,3.4
+California,EIP,2016-17,2017,5,50-64 yr,50.7,4.1
+California,EIP,2016-17,2017,6,50-64 yr,53.4,2.7
+California,EIP,2016-17,2017,7,50-64 yr,55.1,1.7
+California,EIP,2016-17,2017,8,50-64 yr,56.8,1.7
+California,EIP,2016-17,2017,9,50-64 yr,57.8,1
+California,EIP,2016-17,2017,10,50-64 yr,58.8,1
+California,EIP,2016-17,2017,11,50-64 yr,59.4,0.6
+California,EIP,2016-17,2017,12,50-64 yr,59.8,0.4
+California,EIP,2016-17,2017,13,50-64 yr,60.2,0.4
+California,EIP,2016-17,2017,14,50-64 yr,60.9,0.7
+California,EIP,2016-17,2017,15,50-64 yr,61.5,0.6
+California,EIP,2016-17,2017,16,50-64 yr,62.4,0.9
+California,EIP,2016-17,2017,17,50-64 yr,62.8,0.4
+California,EIP,2016-17,2016,40,65+ yr,0.6,0.6
+California,EIP,2016-17,2016,41,65+ yr,1.9,1.4
+California,EIP,2016-17,2016,42,65+ yr,3.7,1.8
+California,EIP,2016-17,2016,43,65+ yr,6,2.3
+California,EIP,2016-17,2016,44,65+ yr,8.4,2.3
+California,EIP,2016-17,2016,45,65+ yr,10.5,2.1
+California,EIP,2016-17,2016,46,65+ yr,12.3,1.8
+California,EIP,2016-17,2016,47,65+ yr,13.6,1.4
+California,EIP,2016-17,2016,48,65+ yr,16.7,3.1
+California,EIP,2016-17,2016,49,65+ yr,23.7,7
+California,EIP,2016-17,2016,50,65+ yr,31.7,8
+California,EIP,2016-17,2016,51,65+ yr,47.8,16.1
+California,EIP,2016-17,2016,52,65+ yr,87.9,40.1
+California,EIP,2016-17,2017,1,65+ yr,150.9,63
+California,EIP,2016-17,2017,2,65+ yr,203,52.1
+California,EIP,2016-17,2017,3,65+ yr,237.6,34.6
+California,EIP,2016-17,2017,4,65+ yr,261.7,24.1
+California,EIP,2016-17,2017,5,65+ yr,284.7,22.9
+California,EIP,2016-17,2017,6,65+ yr,299.6,15
+California,EIP,2016-17,2017,7,65+ yr,307.8,8.2
+California,EIP,2016-17,2017,8,65+ yr,314.2,6.4
+California,EIP,2016-17,2017,9,65+ yr,320.3,6
+California,EIP,2016-17,2017,10,65+ yr,325.7,5.4
+California,EIP,2016-17,2017,11,65+ yr,329,3.3
+California,EIP,2016-17,2017,12,65+ yr,332.7,3.7
+California,EIP,2016-17,2017,13,65+ yr,336,3.3
+California,EIP,2016-17,2017,14,65+ yr,339.5,3.5
+California,EIP,2016-17,2017,15,65+ yr,342.2,2.7
+California,EIP,2016-17,2017,16,65+ yr,343.8,1.6
+California,EIP,2016-17,2017,17,65+ yr,346.5,2.7
+California,EIP,2016-17,2016,40,65-74 yr,0.7,0.7
+California,EIP,2016-17,2016,41,65-74 yr,1,0.3
+California,EIP,2016-17,2016,42,65-74 yr,1.7,0.7
+California,EIP,2016-17,2016,43,65-74 yr,2.7,1
+California,EIP,2016-17,2016,44,65-74 yr,4.4,1.7
+California,EIP,2016-17,2016,45,65-74 yr,5.4,1
+California,EIP,2016-17,2016,46,65-74 yr,5.7,0.3
+California,EIP,2016-17,2016,47,65-74 yr,6,0.3
+California,EIP,2016-17,2016,48,65-74 yr,7.1,1
+California,EIP,2016-17,2016,49,65-74 yr,11.4,4.4
+California,EIP,2016-17,2016,50,65-74 yr,16.1,4.7
+California,EIP,2016-17,2016,51,65-74 yr,23.9,7.7
+California,EIP,2016-17,2016,52,65-74 yr,42,18.1
+California,EIP,2016-17,2017,1,65-74 yr,66.9,24.9
+California,EIP,2016-17,2017,2,65-74 yr,89,22.2
+California,EIP,2016-17,2017,3,65-74 yr,104.5,15.5
+California,EIP,2016-17,2017,4,65-74 yr,112.9,8.4
+California,EIP,2016-17,2017,5,65-74 yr,124.6,11.8
+California,EIP,2016-17,2017,6,65-74 yr,129.3,4.7
+California,EIP,2016-17,2017,7,65-74 yr,134.4,5
+California,EIP,2016-17,2017,8,65-74 yr,137.7,3.4
+California,EIP,2016-17,2017,9,65-74 yr,140.4,2.7
+California,EIP,2016-17,2017,10,65-74 yr,142.1,1.7
+California,EIP,2016-17,2017,11,65-74 yr,144.8,2.7
+California,EIP,2016-17,2017,12,65-74 yr,147.5,2.7
+California,EIP,2016-17,2017,13,65-74 yr,149.2,1.7
+California,EIP,2016-17,2017,14,65-74 yr,150.8,1.7
+California,EIP,2016-17,2017,15,65-74 yr,152.9,2
+California,EIP,2016-17,2017,16,65-74 yr,153.9,1
+California,EIP,2016-17,2017,17,65-74 yr,155.5,1.7
+California,EIP,2016-17,2016,40,75-84 yr,0.7,0.7
+California,EIP,2016-17,2016,41,75-84 yr,2.8,2.1
+California,EIP,2016-17,2016,42,75-84 yr,4.2,1.4
+California,EIP,2016-17,2016,43,75-84 yr,6.3,2.1
+California,EIP,2016-17,2016,44,75-84 yr,9.7,3.5
+California,EIP,2016-17,2016,45,75-84 yr,11.1,1.4
+California,EIP,2016-17,2016,46,75-84 yr,13.9,2.8
+California,EIP,2016-17,2016,47,75-84 yr,16.7,2.8
+California,EIP,2016-17,2016,48,75-84 yr,20.8,4.2
+California,EIP,2016-17,2016,49,75-84 yr,25,4.2
+California,EIP,2016-17,2016,50,75-84 yr,36.1,11.1
+California,EIP,2016-17,2016,51,75-84 yr,57,20.8
+California,EIP,2016-17,2016,52,75-84 yr,105.6,48.6
+California,EIP,2016-17,2017,1,75-84 yr,178.5,72.9
+California,EIP,2016-17,2017,2,75-84 yr,239,60.4
+California,EIP,2016-17,2017,3,75-84 yr,273.7,34.7
+California,EIP,2016-17,2017,4,75-84 yr,301.5,27.8
+California,EIP,2016-17,2017,5,75-84 yr,323.7,22.2
+California,EIP,2016-17,2017,6,75-84 yr,347.3,23.6
+California,EIP,2016-17,2017,7,75-84 yr,358.4,11.1
+California,EIP,2016-17,2017,8,75-84 yr,365.4,6.9
+California,EIP,2016-17,2017,9,75-84 yr,374.4,9
+California,EIP,2016-17,2017,10,75-84 yr,383.4,9
+California,EIP,2016-17,2017,11,75-84 yr,386.2,2.8
+California,EIP,2016-17,2017,12,75-84 yr,389,2.8
+California,EIP,2016-17,2017,13,75-84 yr,393.2,4.2
+California,EIP,2016-17,2017,14,75-84 yr,398,4.9
+California,EIP,2016-17,2017,15,75-84 yr,401.5,3.5
+California,EIP,2016-17,2017,16,75-84 yr,403.6,2.1
+California,EIP,2016-17,2017,17,75-84 yr,406.4,2.8
+California,EIP,2016-17,2016,40,85+,0,0
+California,EIP,2016-17,2016,41,85+,4.1,4.1
+California,EIP,2016-17,2016,42,85+,11,6.9
+California,EIP,2016-17,2016,43,85+,19.3,8.3
+California,EIP,2016-17,2016,44,85+,22,2.8
+California,EIP,2016-17,2016,45,85+,30.3,8.3
+California,EIP,2016-17,2016,46,85+,35.8,5.5
+California,EIP,2016-17,2016,47,85+,38.5,2.8
+California,EIP,2016-17,2016,48,85+,48.2,9.6
+California,EIP,2016-17,2016,49,85+,71.6,23.4
+California,EIP,2016-17,2016,50,85+,86.7,15.1
+California,EIP,2016-17,2016,51,85+,128,41.3
+California,EIP,2016-17,2016,52,85+,240.9,112.9
+California,EIP,2016-17,2017,1,85+,440.5,199.6
+California,EIP,2016-17,2017,2,85+,598.8,158.3
+California,EIP,2016-17,2017,3,85+,711.6,112.9
+California,EIP,2016-17,2017,4,85+,792.8,81.2
+California,EIP,2016-17,2017,5,85+,863,70.2
+California,EIP,2016-17,2017,6,85+,902.9,39.9
+California,EIP,2016-17,2017,7,85+,918.1,15.1
+California,EIP,2016-17,2017,8,85+,936,17.9
+California,EIP,2016-17,2017,9,85+,949.7,13.8
+California,EIP,2016-17,2017,10,85+,963.5,13.8
+California,EIP,2016-17,2017,11,85+,970.4,6.9
+California,EIP,2016-17,2017,12,85+,980,9.6
+California,EIP,2016-17,2017,13,85+,988.3,8.3
+California,EIP,2016-17,2017,14,85+,996.5,8.3
+California,EIP,2016-17,2017,15,85+,1000.7,4.1
+California,EIP,2016-17,2017,16,85+,1003.4,2.8
+California,EIP,2016-17,2017,17,85+,1010.3,6.9
+California,EIP,2017-18,2017,40,0-4 yr,0,0
+California,EIP,2017-18,2017,41,0-4 yr,0,0
+California,EIP,2017-18,2017,42,0-4 yr,0,0
+California,EIP,2017-18,2017,43,0-4 yr,0,0
+California,EIP,2017-18,2017,44,0-4 yr,0.5,0.5
+California,EIP,2017-18,2017,45,0-4 yr,0.5,0
+California,EIP,2017-18,2017,46,0-4 yr,1.5,1
+California,EIP,2017-18,2017,47,0-4 yr,3.9,2.5
+California,EIP,2017-18,2017,48,0-4 yr,4.9,1
+California,EIP,2017-18,2017,49,0-4 yr,4.9,0
+California,EIP,2017-18,2017,50,0-4 yr,6.4,1.5
+California,EIP,2017-18,2017,51,0-4 yr,8.8,2.5
+California,EIP,2017-18,2017,52,0-4 yr,12.8,3.9
+California,EIP,2017-18,2018,1,0-4 yr,17.2,4.4
+California,EIP,2017-18,2018,2,0-4 yr,21.6,4.4
+California,EIP,2017-18,2018,3,0-4 yr,26,4.4
+California,EIP,2017-18,2018,4,0-4 yr,29.5,3.4
+California,EIP,2017-18,2018,5,0-4 yr,33.4,3.9
+California,EIP,2017-18,2018,6,0-4 yr,37.8,4.4
+California,EIP,2017-18,2018,7,0-4 yr,43.3,5.4
+California,EIP,2017-18,2018,8,0-4 yr,45.7,2.5
+California,EIP,2017-18,2018,9,0-4 yr,47.2,1.5
+California,EIP,2017-18,2018,10,0-4 yr,48.7,1.5
+California,EIP,2017-18,2018,11,0-4 yr,50.6,2
+California,EIP,2017-18,2018,12,0-4 yr,52.1,1.5
+California,EIP,2017-18,2018,13,0-4 yr,53.6,1.5
+California,EIP,2017-18,2018,14,0-4 yr,54.1,0.5
+California,EIP,2017-18,2018,15,0-4 yr,54.6,0.5
+California,EIP,2017-18,2018,16,0-4 yr,55,0.5
+California,EIP,2017-18,2018,17,0-4 yr,56,1
+California,EIP,2017-18,2017,40,5-17 yr,0,0
+California,EIP,2017-18,2017,41,5-17 yr,0,0
+California,EIP,2017-18,2017,42,5-17 yr,0,0
+California,EIP,2017-18,2017,43,5-17 yr,0,0
+California,EIP,2017-18,2017,44,5-17 yr,0.2,0.2
+California,EIP,2017-18,2017,45,5-17 yr,0.4,0.2
+California,EIP,2017-18,2017,46,5-17 yr,0.8,0.4
+California,EIP,2017-18,2017,47,5-17 yr,0.8,0
+California,EIP,2017-18,2017,48,5-17 yr,0.8,0
+California,EIP,2017-18,2017,49,5-17 yr,1.3,0.6
+California,EIP,2017-18,2017,50,5-17 yr,1.7,0.4
+California,EIP,2017-18,2017,51,5-17 yr,1.9,0.2
+California,EIP,2017-18,2017,52,5-17 yr,3.1,1.1
+California,EIP,2017-18,2018,1,5-17 yr,4.8,1.7
+California,EIP,2017-18,2018,2,5-17 yr,6.9,2.1
+California,EIP,2017-18,2018,3,5-17 yr,7.9,1
+California,EIP,2017-18,2018,4,5-17 yr,9.2,1.3
+California,EIP,2017-18,2018,5,5-17 yr,10.5,1.3
+California,EIP,2017-18,2018,6,5-17 yr,11.3,0.8
+California,EIP,2017-18,2018,7,5-17 yr,11.5,0.2
+California,EIP,2017-18,2018,8,5-17 yr,12.6,1.1
+California,EIP,2017-18,2018,9,5-17 yr,13.8,1.1
+California,EIP,2017-18,2018,10,5-17 yr,15.1,1.3
+California,EIP,2017-18,2018,11,5-17 yr,15.9,0.8
+California,EIP,2017-18,2018,12,5-17 yr,16.3,0.4
+California,EIP,2017-18,2018,13,5-17 yr,16.7,0.4
+California,EIP,2017-18,2018,14,5-17 yr,16.9,0.2
+California,EIP,2017-18,2018,15,5-17 yr,16.9,0
+California,EIP,2017-18,2018,16,5-17 yr,16.9,0
+California,EIP,2017-18,2018,17,5-17 yr,17,0.2
+California,EIP,2017-18,2017,40,18-49 yr,0.1,0.1
+California,EIP,2017-18,2017,41,18-49 yr,0.1,0
+California,EIP,2017-18,2017,42,18-49 yr,0.1,0
+California,EIP,2017-18,2017,43,18-49 yr,0.1,0.1
+California,EIP,2017-18,2017,44,18-49 yr,0.2,0.1
+California,EIP,2017-18,2017,45,18-49 yr,0.6,0.3
+California,EIP,2017-18,2017,46,18-49 yr,0.8,0.2
+California,EIP,2017-18,2017,47,18-49 yr,1,0.2
+California,EIP,2017-18,2017,48,18-49 yr,1.1,0.1
+California,EIP,2017-18,2017,49,18-49 yr,1.3,0.2
+California,EIP,2017-18,2017,50,18-49 yr,1.8,0.5
+California,EIP,2017-18,2017,51,18-49 yr,3.2,1.4
+California,EIP,2017-18,2017,52,18-49 yr,5.9,2.7
+California,EIP,2017-18,2018,1,18-49 yr,8.6,2.7
+California,EIP,2017-18,2018,2,18-49 yr,11.2,2.7
+California,EIP,2017-18,2018,3,18-49 yr,13.2,2
+California,EIP,2017-18,2018,4,18-49 yr,15.2,2
+California,EIP,2017-18,2018,5,18-49 yr,16.9,1.7
+California,EIP,2017-18,2018,6,18-49 yr,18,1
+California,EIP,2017-18,2018,7,18-49 yr,18.6,0.6
+California,EIP,2017-18,2018,8,18-49 yr,19.5,0.9
+California,EIP,2017-18,2018,9,18-49 yr,20.3,0.8
+California,EIP,2017-18,2018,10,18-49 yr,21.6,1.3
+California,EIP,2017-18,2018,11,18-49 yr,22.6,1
+California,EIP,2017-18,2018,12,18-49 yr,23.2,0.6
+California,EIP,2017-18,2018,13,18-49 yr,23.8,0.6
+California,EIP,2017-18,2018,14,18-49 yr,24.2,0.4
+California,EIP,2017-18,2018,15,18-49 yr,24.3,0.1
+California,EIP,2017-18,2018,16,18-49 yr,24.5,0.2
+California,EIP,2017-18,2018,17,18-49 yr,24.9,0.4
+California,EIP,2017-18,2017,40,50-64 yr,0.1,0.1
+California,EIP,2017-18,2017,41,50-64 yr,0.3,0.1
+California,EIP,2017-18,2017,42,50-64 yr,0.7,0.4
+California,EIP,2017-18,2017,43,50-64 yr,1.6,0.9
+California,EIP,2017-18,2017,44,50-64 yr,1.8,0.3
+California,EIP,2017-18,2017,45,50-64 yr,2.1,0.3
+California,EIP,2017-18,2017,46,50-64 yr,2.4,0.3
+California,EIP,2017-18,2017,47,50-64 yr,3.1,0.7
+California,EIP,2017-18,2017,48,50-64 yr,3.7,0.6
+California,EIP,2017-18,2017,49,50-64 yr,4.3,0.6
+California,EIP,2017-18,2017,50,50-64 yr,6.5,2.3
+California,EIP,2017-18,2017,51,50-64 yr,11.8,5.3
+California,EIP,2017-18,2017,52,50-64 yr,24.7,12.9
+California,EIP,2017-18,2018,1,50-64 yr,43.5,18.7
+California,EIP,2017-18,2018,2,50-64 yr,52,8.5
+California,EIP,2017-18,2018,3,50-64 yr,59.9,8
+California,EIP,2017-18,2018,4,50-64 yr,66.2,6.2
+California,EIP,2017-18,2018,5,50-64 yr,70.6,4.4
+California,EIP,2017-18,2018,6,50-64 yr,74.7,4.1
+California,EIP,2017-18,2018,7,50-64 yr,77.8,3.1
+California,EIP,2017-18,2018,8,50-64 yr,80.7,2.8
+California,EIP,2017-18,2018,9,50-64 yr,87,6.4
+California,EIP,2017-18,2018,10,50-64 yr,90.9,3.8
+California,EIP,2017-18,2018,11,50-64 yr,94.6,3.7
+California,EIP,2017-18,2018,12,50-64 yr,96.8,2.3
+California,EIP,2017-18,2018,13,50-64 yr,98.3,1.4
+California,EIP,2017-18,2018,14,50-64 yr,99.5,1.3
+California,EIP,2017-18,2018,15,50-64 yr,100.8,1.3
+California,EIP,2017-18,2018,16,50-64 yr,101.4,0.6
+California,EIP,2017-18,2018,17,50-64 yr,102.1,0.7
+California,EIP,2017-18,2017,40,65+ yr,1.1,1.1
+California,EIP,2017-18,2017,41,65+ yr,1.9,0.7
+California,EIP,2017-18,2017,42,65+ yr,4.5,2.6
+California,EIP,2017-18,2017,43,65+ yr,6.9,2.4
+California,EIP,2017-18,2017,44,65+ yr,8.6,1.7
+California,EIP,2017-18,2017,45,65+ yr,11,2.4
+California,EIP,2017-18,2017,46,65+ yr,13.1,2.1
+California,EIP,2017-18,2017,47,65+ yr,16.4,3.4
+California,EIP,2017-18,2017,48,65+ yr,19.6,3.2
+California,EIP,2017-18,2017,49,65+ yr,24.6,5
+California,EIP,2017-18,2017,50,65+ yr,33.8,9.1
+California,EIP,2017-18,2017,51,65+ yr,60.3,26.5
+California,EIP,2017-18,2017,52,65+ yr,135.2,74.9
+California,EIP,2017-18,2018,1,65+ yr,234.9,99.7
+California,EIP,2017-18,2018,2,65+ yr,294.1,59.2
+California,EIP,2017-18,2018,3,65+ yr,336.3,42.2
+California,EIP,2017-18,2018,4,65+ yr,361.3,25
+California,EIP,2017-18,2018,5,65+ yr,380,18.7
+California,EIP,2017-18,2018,6,65+ yr,392.5,12.5
+California,EIP,2017-18,2018,7,65+ yr,405.4,12.9
+California,EIP,2017-18,2018,8,65+ yr,420.3,14.9
+California,EIP,2017-18,2018,9,65+ yr,440.5,20.2
+California,EIP,2017-18,2018,10,65+ yr,464.9,24.5
+California,EIP,2017-18,2018,11,65+ yr,485.8,20.9
+California,EIP,2017-18,2018,12,65+ yr,496.3,10.5
+California,EIP,2017-18,2018,13,65+ yr,505.3,9
+California,EIP,2017-18,2018,14,65+ yr,511,5.8
+California,EIP,2017-18,2018,15,65+ yr,515.9,4.9
+California,EIP,2017-18,2018,16,65+ yr,518.7,2.8
+California,EIP,2017-18,2018,17,65+ yr,521.5,2.8
+California,EIP,2017-18,2017,40,65-74 yr,0.6,0.6
+California,EIP,2017-18,2017,41,65-74 yr,1,0.3
+California,EIP,2017-18,2017,42,65-74 yr,1.6,0.6
+California,EIP,2017-18,2017,43,65-74 yr,3.2,1.6
+California,EIP,2017-18,2017,44,65-74 yr,4.5,1.3
+California,EIP,2017-18,2017,45,65-74 yr,6.1,1.6
+California,EIP,2017-18,2017,46,65-74 yr,7.7,1.6
+California,EIP,2017-18,2017,47,65-74 yr,10,2.2
+California,EIP,2017-18,2017,48,65-74 yr,11.6,1.6
+California,EIP,2017-18,2017,49,65-74 yr,13.8,2.2
+California,EIP,2017-18,2017,50,65-74 yr,17.4,3.5
+California,EIP,2017-18,2017,51,65-74 yr,28.3,10.9
+California,EIP,2017-18,2017,52,65-74 yr,54,25.7
+California,EIP,2017-18,2018,1,65-74 yr,96.4,42.4
+California,EIP,2017-18,2018,2,65-74 yr,119.9,23.5
+California,EIP,2017-18,2018,3,65-74 yr,145.9,26
+California,EIP,2017-18,2018,4,65-74 yr,158.1,12.2
+California,EIP,2017-18,2018,5,65-74 yr,167.4,9.3
+California,EIP,2017-18,2018,6,65-74 yr,174.8,7.4
+California,EIP,2017-18,2018,7,65-74 yr,181.9,7.1
+California,EIP,2017-18,2018,8,65-74 yr,189.3,7.4
+California,EIP,2017-18,2018,9,65-74 yr,200.9,11.6
+California,EIP,2017-18,2018,10,65-74 yr,214.4,13.5
+California,EIP,2017-18,2018,11,65-74 yr,225.3,10.9
+California,EIP,2017-18,2018,12,65-74 yr,232.7,7.4
+California,EIP,2017-18,2018,13,65-74 yr,237.5,4.8
+California,EIP,2017-18,2018,14,65-74 yr,239.4,1.9
+California,EIP,2017-18,2018,15,65-74 yr,243.3,3.9
+California,EIP,2017-18,2018,16,65-74 yr,245.5,2.2
+California,EIP,2017-18,2018,17,65-74 yr,248.1,2.6
+California,EIP,2017-18,2017,40,75-84 yr,1.3,1.3
+California,EIP,2017-18,2017,41,75-84 yr,1.3,0
+California,EIP,2017-18,2017,42,75-84 yr,4,2.7
+California,EIP,2017-18,2017,43,75-84 yr,8.7,4.7
+California,EIP,2017-18,2017,44,75-84 yr,9.4,0.7
+California,EIP,2017-18,2017,45,75-84 yr,10.7,1.3
+California,EIP,2017-18,2017,46,75-84 yr,12.7,2
+California,EIP,2017-18,2017,47,75-84 yr,16,3.3
+California,EIP,2017-18,2017,48,75-84 yr,18.1,2
+California,EIP,2017-18,2017,49,75-84 yr,24.1,6
+California,EIP,2017-18,2017,50,75-84 yr,38.1,14
+California,EIP,2017-18,2017,51,75-84 yr,72.9,34.8
+California,EIP,2017-18,2017,52,75-84 yr,171.8,98.9
+California,EIP,2017-18,2018,1,75-84 yr,294.2,122.3
+California,EIP,2017-18,2018,2,75-84 yr,367.7,73.5
+California,EIP,2017-18,2018,3,75-84 yr,415.2,47.5
+California,EIP,2017-18,2018,4,75-84 yr,451.3,36.1
+California,EIP,2017-18,2018,5,75-84 yr,477.3,26.1
+California,EIP,2017-18,2018,6,75-84 yr,492.1,14.7
+California,EIP,2017-18,2018,7,75-84 yr,506.1,14
+California,EIP,2017-18,2018,8,75-84 yr,527.5,21.4
+California,EIP,2017-18,2018,9,75-84 yr,548.2,20.7
+California,EIP,2017-18,2018,10,75-84 yr,578.3,30.1
+California,EIP,2017-18,2018,11,75-84 yr,604.4,26.1
+California,EIP,2017-18,2018,12,75-84 yr,616.4,12
+California,EIP,2017-18,2018,13,75-84 yr,631.8,15.4
+California,EIP,2017-18,2018,14,75-84 yr,642.5,10.7
+California,EIP,2017-18,2018,15,75-84 yr,647.2,4.7
+California,EIP,2017-18,2018,16,75-84 yr,649.2,2
+California,EIP,2017-18,2018,17,75-84 yr,651.2,2
+California,EIP,2017-18,2017,40,85+,2.7,2.7
+California,EIP,2017-18,2017,41,85+,6.7,4
+California,EIP,2017-18,2017,42,85+,17.4,10.7
+California,EIP,2017-18,2017,43,85+,18.7,1.3
+California,EIP,2017-18,2017,44,85+,24.1,5.3
+California,EIP,2017-18,2017,45,85+,32.1,8
+California,EIP,2017-18,2017,46,85+,36.1,4
+California,EIP,2017-18,2017,47,85+,44.1,8
+California,EIP,2017-18,2017,48,85+,56.1,12
+California,EIP,2017-18,2017,49,85+,70.8,14.7
+California,EIP,2017-18,2017,50,85+,93.5,22.7
+California,EIP,2017-18,2017,51,85+,168.4,74.8
+California,EIP,2017-18,2017,52,85+,399.5,231.2
+California,EIP,2017-18,2018,1,85+,692.2,292.6
+California,EIP,2017-18,2018,2,85+,871.2,179.1
+California,EIP,2017-18,2018,3,85+,970.1,98.9
+California,EIP,2017-18,2018,4,85+,1026.2,56.1
+California,EIP,2017-18,2018,5,85+,1069,42.8
+California,EIP,2017-18,2018,6,85+,1098.4,29.4
+California,EIP,2017-18,2018,7,85+,1133.1,34.7
+California,EIP,2017-18,2018,8,85+,1166.6,33.4
+California,EIP,2017-18,2018,9,85+,1221.3,54.8
+California,EIP,2017-18,2018,10,85+,1280.1,58.8
+California,EIP,2017-18,2018,11,85+,1332.2,52.1
+California,EIP,2017-18,2018,12,85+,1352.3,20
+California,EIP,2017-18,2018,13,85+,1365.7,13.4
+California,EIP,2017-18,2018,14,85+,1377.7,12
+California,EIP,2017-18,2018,15,85+,1387,9.4
+California,EIP,2017-18,2018,16,85+,1393.7,6.7
+California,EIP,2017-18,2018,17,85+,1399.1,5.3
+California,EIP,2018-19,2018,40,0-4 yr,1,1
+California,EIP,2018-19,2018,41,0-4 yr,1,0
+California,EIP,2018-19,2018,42,0-4 yr,1.5,0.5
+California,EIP,2018-19,2018,43,0-4 yr,1.5,0
+California,EIP,2018-19,2018,44,0-4 yr,1.5,0
+California,EIP,2018-19,2018,45,0-4 yr,2,0.5
+California,EIP,2018-19,2018,46,0-4 yr,2,0
+California,EIP,2018-19,2018,47,0-4 yr,2.5,0.5
+California,EIP,2018-19,2018,48,0-4 yr,2.5,0
+California,EIP,2018-19,2018,49,0-4 yr,3.5,1
+California,EIP,2018-19,2018,50,0-4 yr,4,0.5
+California,EIP,2018-19,2018,51,0-4 yr,4,0
+California,EIP,2018-19,2018,52,0-4 yr,7.4,3.5
+California,EIP,2018-19,2019,1,0-4 yr,12.9,5.5
+California,EIP,2018-19,2019,2,0-4 yr,17.9,5
+California,EIP,2018-19,2019,3,0-4 yr,20.4,2.5
+California,EIP,2018-19,2019,4,0-4 yr,21.3,1
+California,EIP,2018-19,2019,5,0-4 yr,22.8,1.5
+California,EIP,2018-19,2019,6,0-4 yr,23.8,1
+California,EIP,2018-19,2019,7,0-4 yr,26.3,2.5
+California,EIP,2018-19,2019,8,0-4 yr,27.8,1.5
+California,EIP,2018-19,2019,9,0-4 yr,28.8,1
+California,EIP,2018-19,2019,10,0-4 yr,32.8,4
+California,EIP,2018-19,2019,11,0-4 yr,34.8,2
+California,EIP,2018-19,2019,12,0-4 yr,37.2,2.5
+California,EIP,2018-19,2019,13,0-4 yr,38.2,1
+California,EIP,2018-19,2019,14,0-4 yr,40.2,2
+California,EIP,2018-19,2019,15,0-4 yr,40.7,0.5
+California,EIP,2018-19,2019,16,0-4 yr,40.7,0
+California,EIP,2018-19,2019,17,0-4 yr,41.2,0.5
+California,EIP,2018-19,2018,40,5-17 yr,0,0
+California,EIP,2018-19,2018,41,5-17 yr,0,0
+California,EIP,2018-19,2018,42,5-17 yr,0,0
+California,EIP,2018-19,2018,43,5-17 yr,0,0
+California,EIP,2018-19,2018,44,5-17 yr,0,0
+California,EIP,2018-19,2018,45,5-17 yr,0.2,0.2
+California,EIP,2018-19,2018,46,5-17 yr,0.4,0.2
+California,EIP,2018-19,2018,47,5-17 yr,0.6,0.2
+California,EIP,2018-19,2018,48,5-17 yr,1,0.4
+California,EIP,2018-19,2018,49,5-17 yr,1.3,0.4
+California,EIP,2018-19,2018,50,5-17 yr,1.5,0.2
+California,EIP,2018-19,2018,51,5-17 yr,2.3,0.8
+California,EIP,2018-19,2018,52,5-17 yr,3.1,0.8
+California,EIP,2018-19,2019,1,5-17 yr,3.7,0.6
+California,EIP,2018-19,2019,2,5-17 yr,3.8,0.2
+California,EIP,2018-19,2019,3,5-17 yr,4.6,0.8
+California,EIP,2018-19,2019,4,5-17 yr,5.6,1
+California,EIP,2018-19,2019,5,5-17 yr,6.7,1.2
+California,EIP,2018-19,2019,6,5-17 yr,7.7,1
+California,EIP,2018-19,2019,7,5-17 yr,10.2,2.5
+California,EIP,2018-19,2019,8,5-17 yr,11.4,1.2
+California,EIP,2018-19,2019,9,5-17 yr,12.3,1
+California,EIP,2018-19,2019,10,5-17 yr,14.4,2.1
+California,EIP,2018-19,2019,11,5-17 yr,15.8,1.3
+California,EIP,2018-19,2019,12,5-17 yr,16.7,1
+California,EIP,2018-19,2019,13,5-17 yr,18.1,1.3
+California,EIP,2018-19,2019,14,5-17 yr,18.1,0
+California,EIP,2018-19,2019,15,5-17 yr,18.1,0
+California,EIP,2018-19,2019,16,5-17 yr,18.5,0.4
+California,EIP,2018-19,2019,17,5-17 yr,18.9,0.4
+California,EIP,2018-19,2018,40,18-49 yr,0.1,0.1
+California,EIP,2018-19,2018,41,18-49 yr,0.2,0.1
+California,EIP,2018-19,2018,42,18-49 yr,0.2,0
+California,EIP,2018-19,2018,43,18-49 yr,0.2,0
+California,EIP,2018-19,2018,44,18-49 yr,0.3,0.1
+California,EIP,2018-19,2018,45,18-49 yr,0.3,0
+California,EIP,2018-19,2018,46,18-49 yr,0.5,0.2
+California,EIP,2018-19,2018,47,18-49 yr,0.6,0.1
+California,EIP,2018-19,2018,48,18-49 yr,0.6,0.1
+California,EIP,2018-19,2018,49,18-49 yr,0.7,0.1
+California,EIP,2018-19,2018,50,18-49 yr,0.9,0.2
+California,EIP,2018-19,2018,51,18-49 yr,1.7,0.8
+California,EIP,2018-19,2018,52,18-49 yr,2.3,0.6
+California,EIP,2018-19,2019,1,18-49 yr,3.9,1.7
+California,EIP,2018-19,2019,2,18-49 yr,5.4,1.5
+California,EIP,2018-19,2019,3,18-49 yr,6.5,1.1
+California,EIP,2018-19,2019,4,18-49 yr,7.6,1.1
+California,EIP,2018-19,2019,5,18-49 yr,8.6,0.9
+California,EIP,2018-19,2019,6,18-49 yr,9.4,0.9
+California,EIP,2018-19,2019,7,18-49 yr,10.5,1.1
+California,EIP,2018-19,2019,8,18-49 yr,11.9,1.4
+California,EIP,2018-19,2019,9,18-49 yr,13.2,1.3
+California,EIP,2018-19,2019,10,18-49 yr,14,0.8
+California,EIP,2018-19,2019,11,18-49 yr,15.2,1.2
+California,EIP,2018-19,2019,12,18-49 yr,16.3,1.1
+California,EIP,2018-19,2019,13,18-49 yr,17.1,0.8
+California,EIP,2018-19,2019,14,18-49 yr,17.6,0.5
+California,EIP,2018-19,2019,15,18-49 yr,17.8,0.2
+California,EIP,2018-19,2019,16,18-49 yr,17.9,0.1
+California,EIP,2018-19,2019,17,18-49 yr,18,0.2
+California,EIP,2018-19,2018,40,50-64 yr,0,0
+California,EIP,2018-19,2018,41,50-64 yr,0.3,0.3
+California,EIP,2018-19,2018,42,50-64 yr,0.4,0.1
+California,EIP,2018-19,2018,43,50-64 yr,0.4,0
+California,EIP,2018-19,2018,44,50-64 yr,0.6,0.1
+California,EIP,2018-19,2018,45,50-64 yr,0.6,0
+California,EIP,2018-19,2018,46,50-64 yr,0.6,0
+California,EIP,2018-19,2018,47,50-64 yr,1.3,0.7
+California,EIP,2018-19,2018,48,50-64 yr,2.6,1.3
+California,EIP,2018-19,2018,49,50-64 yr,2.9,0.3
+California,EIP,2018-19,2018,50,50-64 yr,4.1,1.3
+California,EIP,2018-19,2018,51,50-64 yr,6,1.9
+California,EIP,2018-19,2018,52,50-64 yr,8.4,2.4
+California,EIP,2018-19,2019,1,50-64 yr,13.3,4.9
+California,EIP,2018-19,2019,2,50-64 yr,18.7,5.4
+California,EIP,2018-19,2019,3,50-64 yr,23,4.3
+California,EIP,2018-19,2019,4,50-64 yr,25.9,2.9
+California,EIP,2018-19,2019,5,50-64 yr,30.2,4.3
+California,EIP,2018-19,2019,6,50-64 yr,32.2,2
+California,EIP,2018-19,2019,7,50-64 yr,35.3,3.1
+California,EIP,2018-19,2019,8,50-64 yr,39.3,4
+California,EIP,2018-19,2019,9,50-64 yr,45.4,6.1
+California,EIP,2018-19,2019,10,50-64 yr,51.7,6.3
+California,EIP,2018-19,2019,11,50-64 yr,55.5,3.7
+California,EIP,2018-19,2019,12,50-64 yr,60.2,4.7
+California,EIP,2018-19,2019,13,50-64 yr,62.5,2.3
+California,EIP,2018-19,2019,14,50-64 yr,63.7,1.3
+California,EIP,2018-19,2019,15,50-64 yr,64.6,0.9
+California,EIP,2018-19,2019,16,50-64 yr,66,1.4
+California,EIP,2018-19,2019,17,50-64 yr,66.6,0.6
+California,EIP,2018-19,2018,40,65+ yr,0.7,0.7
+California,EIP,2018-19,2018,41,65+ yr,1.3,0.5
+California,EIP,2018-19,2018,42,65+ yr,2,0.7
+California,EIP,2018-19,2018,43,65+ yr,3.3,1.3
+California,EIP,2018-19,2018,44,65+ yr,3.6,0.4
+California,EIP,2018-19,2018,45,65+ yr,4.4,0.7
+California,EIP,2018-19,2018,46,65+ yr,4.5,0.2
+California,EIP,2018-19,2018,47,65+ yr,5.8,1.3
+California,EIP,2018-19,2018,48,65+ yr,8.4,2.5
+California,EIP,2018-19,2018,49,65+ yr,9.5,1.1
+California,EIP,2018-19,2018,50,65+ yr,11.5,2
+California,EIP,2018-19,2018,51,65+ yr,14.7,3.3
+California,EIP,2018-19,2018,52,65+ yr,19.4,4.7
+California,EIP,2018-19,2019,1,65+ yr,29.4,10
+California,EIP,2018-19,2019,2,65+ yr,40.2,10.7
+California,EIP,2018-19,2019,3,65+ yr,47.3,7.1
+California,EIP,2018-19,2019,4,65+ yr,53.4,6.2
+California,EIP,2018-19,2019,5,65+ yr,60.5,7.1
+California,EIP,2018-19,2019,6,65+ yr,68.7,8.2
+California,EIP,2018-19,2019,7,65+ yr,78.5,9.8
+California,EIP,2018-19,2019,8,65+ yr,94.1,15.6
+California,EIP,2018-19,2019,9,65+ yr,118.1,24
+California,EIP,2018-19,2019,10,65+ yr,135.4,17.3
+California,EIP,2018-19,2019,11,65+ yr,149.4,14
+California,EIP,2018-19,2019,12,65+ yr,165.8,16.4
+California,EIP,2018-19,2019,13,65+ yr,177.4,11.6
+California,EIP,2018-19,2019,14,65+ yr,185.7,8.4
+California,EIP,2018-19,2019,15,65+ yr,190.7,4.9
+California,EIP,2018-19,2019,16,65+ yr,193,2.4
+California,EIP,2018-19,2019,17,65+ yr,195.7,2.7
+California,EIP,2018-19,2018,40,65-74 yr,0.6,0.6
+California,EIP,2018-19,2018,41,65-74 yr,0.9,0.3
+California,EIP,2018-19,2018,42,65-74 yr,0.9,0
+California,EIP,2018-19,2018,43,65-74 yr,1.6,0.6
+California,EIP,2018-19,2018,44,65-74 yr,1.6,0
+California,EIP,2018-19,2018,45,65-74 yr,2.2,0.6
+California,EIP,2018-19,2018,46,65-74 yr,2.5,0.3
+California,EIP,2018-19,2018,47,65-74 yr,4.1,1.6
+California,EIP,2018-19,2018,48,65-74 yr,5.3,1.3
+California,EIP,2018-19,2018,49,65-74 yr,6.3,0.9
+California,EIP,2018-19,2018,50,65-74 yr,7.5,1.3
+California,EIP,2018-19,2018,51,65-74 yr,10.3,2.8
+California,EIP,2018-19,2018,52,65-74 yr,13.1,2.8
+California,EIP,2018-19,2019,1,65-74 yr,21.9,8.8
+California,EIP,2018-19,2019,2,65-74 yr,30.3,8.4
+California,EIP,2018-19,2019,3,65-74 yr,36.6,6.3
+California,EIP,2018-19,2019,4,65-74 yr,41,4.4
+California,EIP,2018-19,2019,5,65-74 yr,45.4,4.4
+California,EIP,2018-19,2019,6,65-74 yr,51,5.6
+California,EIP,2018-19,2019,7,65-74 yr,57.2,6.3
+California,EIP,2018-19,2019,8,65-74 yr,63.5,6.3
+California,EIP,2018-19,2019,9,65-74 yr,77.6,14.1
+California,EIP,2018-19,2019,10,65-74 yr,87.3,9.7
+California,EIP,2018-19,2019,11,65-74 yr,93.5,6.3
+California,EIP,2018-19,2019,12,65-74 yr,104.8,11.3
+California,EIP,2018-19,2019,13,65-74 yr,111,6.3
+California,EIP,2018-19,2019,14,65-74 yr,116,5
+California,EIP,2018-19,2019,15,65-74 yr,118.2,2.2
+California,EIP,2018-19,2019,16,65-74 yr,119.8,1.6
+California,EIP,2018-19,2019,17,65-74 yr,121.1,1.3
+California,EIP,2018-19,2018,40,75-84 yr,1.3,1.3
+California,EIP,2018-19,2018,41,75-84 yr,1.9,0.6
+California,EIP,2018-19,2018,42,75-84 yr,2.6,0.6
+California,EIP,2018-19,2018,43,75-84 yr,3.9,1.3
+California,EIP,2018-19,2018,44,75-84 yr,4.5,0.6
+California,EIP,2018-19,2018,45,75-84 yr,4.5,0
+California,EIP,2018-19,2018,46,75-84 yr,4.5,0
+California,EIP,2018-19,2018,47,75-84 yr,5.8,1.3
+California,EIP,2018-19,2018,48,75-84 yr,9.7,3.9
+California,EIP,2018-19,2018,49,75-84 yr,10.3,0.6
+California,EIP,2018-19,2018,50,75-84 yr,12.3,1.9
+California,EIP,2018-19,2018,51,75-84 yr,14.8,2.6
+California,EIP,2018-19,2018,52,75-84 yr,21.9,7.1
+California,EIP,2018-19,2019,1,75-84 yr,32.3,10.3
+California,EIP,2018-19,2019,2,75-84 yr,45.2,12.9
+California,EIP,2018-19,2019,3,75-84 yr,54.2,9
+California,EIP,2018-19,2019,4,75-84 yr,63.2,9
+California,EIP,2018-19,2019,5,75-84 yr,74.2,11
+California,EIP,2018-19,2019,6,75-84 yr,85.8,11.6
+California,EIP,2018-19,2019,7,75-84 yr,97.4,11.6
+California,EIP,2018-19,2019,8,75-84 yr,126.4,29
+California,EIP,2018-19,2019,9,75-84 yr,154.8,28.4
+California,EIP,2018-19,2019,10,75-84 yr,181.9,27.1
+California,EIP,2018-19,2019,11,75-84 yr,203.2,21.3
+California,EIP,2018-19,2019,12,75-84 yr,220.6,17.4
+California,EIP,2018-19,2019,13,75-84 yr,234.2,13.5
+California,EIP,2018-19,2019,14,75-84 yr,243.2,9
+California,EIP,2018-19,2019,15,75-84 yr,250.3,7.1
+California,EIP,2018-19,2019,16,75-84 yr,253.5,3.2
+California,EIP,2018-19,2019,17,75-84 yr,256.1,2.6
+California,EIP,2018-19,2018,40,85+,0,0
+California,EIP,2018-19,2018,41,85+,1.3,1.3
+California,EIP,2018-19,2018,42,85+,5.3,4
+California,EIP,2018-19,2018,43,85+,9.3,4
+California,EIP,2018-19,2018,44,85+,10.6,1.3
+California,EIP,2018-19,2018,45,85+,13.2,2.6
+California,EIP,2018-19,2018,46,85+,13.2,0
+California,EIP,2018-19,2018,47,85+,13.2,0
+California,EIP,2018-19,2018,48,85+,18.5,5.3
+California,EIP,2018-19,2018,49,85+,21.2,2.6
+California,EIP,2018-19,2018,50,85+,26.5,5.3
+California,EIP,2018-19,2018,51,85+,33.1,6.6
+California,EIP,2018-19,2018,52,85+,41.1,7.9
+California,EIP,2018-19,2019,1,85+,55.6,14.6
+California,EIP,2018-19,2019,2,85+,71.5,15.9
+California,EIP,2018-19,2019,3,85+,78.2,6.6
+California,EIP,2018-19,2019,4,85+,86.1,7.9
+California,EIP,2018-19,2019,5,85+,96.7,10.6
+California,EIP,2018-19,2019,6,85+,108.6,11.9
+California,EIP,2018-19,2019,7,85+,129.8,21.2
+California,EIP,2018-19,2019,8,85+,157.6,27.8
+California,EIP,2018-19,2019,9,85+,214.6,57
+California,EIP,2018-19,2019,10,85+,243.7,29.1
+California,EIP,2018-19,2019,11,85+,275.5,31.8
+California,EIP,2018-19,2019,12,85+,311.3,35.8
+California,EIP,2018-19,2019,13,85+,341.8,30.5
+California,EIP,2018-19,2019,14,85+,363,21.2
+California,EIP,2018-19,2019,15,85+,374.9,11.9
+California,EIP,2018-19,2019,16,85+,378.9,4
+California,EIP,2018-19,2019,17,85+,388.1,9.3
+California,EIP,2019-20,2019,40,0-4 yr,0,0
+California,EIP,2019-20,2019,41,0-4 yr,0,0
+California,EIP,2019-20,2019,42,0-4 yr,0.5,0.5
+California,EIP,2019-20,2019,43,0-4 yr,1.5,1
+California,EIP,2019-20,2019,44,0-4 yr,2.5,1
+California,EIP,2019-20,2019,45,0-4 yr,3,0.5
+California,EIP,2019-20,2019,46,0-4 yr,4.5,1.5
+California,EIP,2019-20,2019,47,0-4 yr,4.5,0
+California,EIP,2019-20,2019,48,0-4 yr,5.5,1
+California,EIP,2019-20,2019,49,0-4 yr,7.4,2
+California,EIP,2019-20,2019,50,0-4 yr,9.9,2.5
+California,EIP,2019-20,2019,51,0-4 yr,10.9,1
+California,EIP,2019-20,2019,52,0-4 yr,13.9,3
+California,EIP,2019-20,2020,1,0-4 yr,21.8,7.9
+California,EIP,2019-20,2020,2,0-4 yr,24.3,2.5
+California,EIP,2019-20,2020,3,0-4 yr,26.8,2.5
+California,EIP,2019-20,2020,4,0-4 yr,28.3,1.5
+California,EIP,2019-20,2020,5,0-4 yr,29.3,1
+California,EIP,2019-20,2020,6,0-4 yr,null,null
+California,EIP,2019-20,2019,40,5-17 yr,0,0
+California,EIP,2019-20,2019,41,5-17 yr,0,0
+California,EIP,2019-20,2019,42,5-17 yr,0,0
+California,EIP,2019-20,2019,43,5-17 yr,0.2,0.2
+California,EIP,2019-20,2019,44,5-17 yr,0.6,0.4
+California,EIP,2019-20,2019,45,5-17 yr,1,0.4
+California,EIP,2019-20,2019,46,5-17 yr,2.1,1.2
+California,EIP,2019-20,2019,47,5-17 yr,2.5,0.4
+California,EIP,2019-20,2019,48,5-17 yr,3.1,0.6
+California,EIP,2019-20,2019,49,5-17 yr,3.8,0.8
+California,EIP,2019-20,2019,50,5-17 yr,4.6,0.8
+California,EIP,2019-20,2019,51,5-17 yr,5.8,1.2
+California,EIP,2019-20,2019,52,5-17 yr,7.1,1.3
+California,EIP,2019-20,2020,1,5-17 yr,7.7,0.6
+California,EIP,2019-20,2020,2,5-17 yr,8.7,1
+California,EIP,2019-20,2020,3,5-17 yr,9.8,1.2
+California,EIP,2019-20,2020,4,5-17 yr,12.3,2.5
+California,EIP,2019-20,2020,5,5-17 yr,12.5,0.2
+California,EIP,2019-20,2020,6,5-17 yr,null,null
+California,EIP,2019-20,2019,40,18-49 yr,0.1,0.1
+California,EIP,2019-20,2019,41,18-49 yr,0.1,0.1
+California,EIP,2019-20,2019,42,18-49 yr,0.2,0.1
+California,EIP,2019-20,2019,43,18-49 yr,0.3,0.2
+California,EIP,2019-20,2019,44,18-49 yr,0.8,0.4
+California,EIP,2019-20,2019,45,18-49 yr,1.3,0.6
+California,EIP,2019-20,2019,46,18-49 yr,2,0.7
+California,EIP,2019-20,2019,47,18-49 yr,2.5,0.5
+California,EIP,2019-20,2019,48,18-49 yr,2.9,0.4
+California,EIP,2019-20,2019,49,18-49 yr,3.5,0.6
+California,EIP,2019-20,2019,50,18-49 yr,4.2,0.8
+California,EIP,2019-20,2019,51,18-49 yr,5.3,1
+California,EIP,2019-20,2019,52,18-49 yr,6.4,1.2
+California,EIP,2019-20,2020,1,18-49 yr,8.3,1.9
+California,EIP,2019-20,2020,2,18-49 yr,9.4,1.1
+California,EIP,2019-20,2020,3,18-49 yr,12.1,2.7
+California,EIP,2019-20,2020,4,18-49 yr,14.6,2.5
+California,EIP,2019-20,2020,5,18-49 yr,16.4,1.9
+California,EIP,2019-20,2020,6,18-49 yr,null,null
+California,EIP,2019-20,2019,40,50-64 yr,0,0
+California,EIP,2019-20,2019,41,50-64 yr,0.1,0.1
+California,EIP,2019-20,2019,42,50-64 yr,0.3,0.1
+California,EIP,2019-20,2019,43,50-64 yr,0.4,0.1
+California,EIP,2019-20,2019,44,50-64 yr,0.9,0.4
+California,EIP,2019-20,2019,45,50-64 yr,2,1.1
+California,EIP,2019-20,2019,46,50-64 yr,3,1
+California,EIP,2019-20,2019,47,50-64 yr,3.9,0.9
+California,EIP,2019-20,2019,48,50-64 yr,5.6,1.7
+California,EIP,2019-20,2019,49,50-64 yr,7.1,1.6
+California,EIP,2019-20,2019,50,50-64 yr,9,1.9
+California,EIP,2019-20,2019,51,50-64 yr,11.1,2.1
+California,EIP,2019-20,2019,52,50-64 yr,16.7,5.6
+California,EIP,2019-20,2020,1,50-64 yr,21.3,4.6
+California,EIP,2019-20,2020,2,50-64 yr,26.7,5.4
+California,EIP,2019-20,2020,3,50-64 yr,31.7,5
+California,EIP,2019-20,2020,4,50-64 yr,37.2,5.4
+California,EIP,2019-20,2020,5,50-64 yr,41.6,4.4
+California,EIP,2019-20,2020,6,50-64 yr,null,null
+California,EIP,2019-20,2019,40,65+ yr,1.1,1.1
+California,EIP,2019-20,2019,41,65+ yr,1.3,0.2
+California,EIP,2019-20,2019,42,65+ yr,1.6,0.4
+California,EIP,2019-20,2019,43,65+ yr,3.1,1.5
+California,EIP,2019-20,2019,44,65+ yr,4.7,1.6
+California,EIP,2019-20,2019,45,65+ yr,5.8,1.1
+California,EIP,2019-20,2019,46,65+ yr,7.8,2
+California,EIP,2019-20,2019,47,65+ yr,10.9,3.1
+California,EIP,2019-20,2019,48,65+ yr,12.7,1.8
+California,EIP,2019-20,2019,49,65+ yr,17.4,4.7
+California,EIP,2019-20,2019,50,65+ yr,21.6,4.2
+California,EIP,2019-20,2019,51,65+ yr,28,6.4
+California,EIP,2019-20,2019,52,65+ yr,35.8,7.8
+California,EIP,2019-20,2020,1,65+ yr,50.9,15.1
+California,EIP,2019-20,2020,2,65+ yr,67.6,16.7
+California,EIP,2019-20,2020,3,65+ yr,78.9,11.3
+California,EIP,2019-20,2020,4,65+ yr,95.2,16.4
+California,EIP,2019-20,2020,5,65+ yr,103.1,7.8
+California,EIP,2019-20,2020,6,65+ yr,null,null
+California,EIP,2019-20,2019,40,65-74 yr,0.6,0.6
+California,EIP,2019-20,2019,41,65-74 yr,0.6,0
+California,EIP,2019-20,2019,42,65-74 yr,0.9,0.3
+California,EIP,2019-20,2019,43,65-74 yr,1.9,0.9
+California,EIP,2019-20,2019,44,65-74 yr,2.8,0.9
+California,EIP,2019-20,2019,45,65-74 yr,3.8,0.9
+California,EIP,2019-20,2019,46,65-74 yr,4.4,0.6
+California,EIP,2019-20,2019,47,65-74 yr,6.9,2.5
+California,EIP,2019-20,2019,48,65-74 yr,8.4,1.6
+California,EIP,2019-20,2019,49,65-74 yr,11.9,3.4
+California,EIP,2019-20,2019,50,65-74 yr,15.3,3.4
+California,EIP,2019-20,2019,51,65-74 yr,20,4.7
+California,EIP,2019-20,2019,52,65-74 yr,25.6,5.6
+California,EIP,2019-20,2020,1,65-74 yr,37.8,12.2
+California,EIP,2019-20,2020,2,65-74 yr,49.7,11.9
+California,EIP,2019-20,2020,3,65-74 yr,54.7,5
+California,EIP,2019-20,2020,4,65-74 yr,68.8,14.1
+California,EIP,2019-20,2020,5,65-74 yr,76,7.2
+California,EIP,2019-20,2020,6,65-74 yr,null,null
+California,EIP,2019-20,2019,40,75-84 yr,1.9,1.9
+California,EIP,2019-20,2019,41,75-84 yr,2.6,0.6
+California,EIP,2019-20,2019,42,75-84 yr,3.2,0.6
+California,EIP,2019-20,2019,43,75-84 yr,3.9,0.6
+California,EIP,2019-20,2019,44,75-84 yr,6.5,2.6
+California,EIP,2019-20,2019,45,75-84 yr,7.7,1.3
+California,EIP,2019-20,2019,46,75-84 yr,10.3,2.6
+California,EIP,2019-20,2019,47,75-84 yr,12.9,2.6
+California,EIP,2019-20,2019,48,75-84 yr,14.2,1.3
+California,EIP,2019-20,2019,49,75-84 yr,19.4,5.2
+California,EIP,2019-20,2019,50,75-84 yr,24.5,5.2
+California,EIP,2019-20,2019,51,75-84 yr,31.6,7.1
+California,EIP,2019-20,2019,52,75-84 yr,40.6,9
+California,EIP,2019-20,2020,1,75-84 yr,59.3,18.7
+California,EIP,2019-20,2020,2,75-84 yr,83.9,24.5
+California,EIP,2019-20,2020,3,75-84 yr,96.8,12.9
+California,EIP,2019-20,2020,4,75-84 yr,114.2,17.4
+California,EIP,2019-20,2020,5,75-84 yr,121.9,7.7
+California,EIP,2019-20,2020,6,75-84 yr,null,null
+California,EIP,2019-20,2019,40,85+,1.3,1.3
+California,EIP,2019-20,2019,41,85+,1.3,0
+California,EIP,2019-20,2019,42,85+,1.3,0
+California,EIP,2019-20,2019,43,85+,6.6,5.3
+California,EIP,2019-20,2019,44,85+,9.3,2.6
+California,EIP,2019-20,2019,45,85+,10.6,1.3
+California,EIP,2019-20,2019,46,85+,17.2,6.6
+California,EIP,2019-20,2019,47,85+,23.8,6.6
+California,EIP,2019-20,2019,48,85+,27.8,4
+California,EIP,2019-20,2019,49,85+,37.1,9.3
+California,EIP,2019-20,2019,50,85+,42.4,5.3
+California,EIP,2019-20,2019,51,85+,54.3,11.9
+California,EIP,2019-20,2019,52,85+,68.9,14.6
+California,EIP,2019-20,2020,1,85+,88.8,19.9
+California,EIP,2019-20,2020,2,85+,109.9,21.2
+California,EIP,2019-20,2020,3,85+,144.4,34.4
+California,EIP,2019-20,2020,4,85+,168.2,23.8
+California,EIP,2019-20,2020,5,85+,178.8,10.6
+California,EIP,2019-20,2020,6,85+,null,null
+
+Disclaimer:
+The Influenza Hospitalization Surveillance Network (FluSurv-NET) data are preliminary and subject
+to change as more data become available. All incidence rates are unadjusted.  FluSurv-NET conducts
+population-based surveillance for laboratory-confirmed influenza related hospitalizations in
+children <18 years of age (since 2003-2004 influenza season) and adults (since 2005-2006 influenza
+season).  The FluSurv-NET covers over 70 counties in the 10 Emerging Infections Program (EIP)
+"states (CA, CO, CT, GA, MD, MN, NM, NY, OR, TN) and additional Influenza Hospitalization"
+Surveillance Project (IHSP) states.   The IHSP began during the 2009-2010 season to enhance
+"surveillance during the 2009 H1N1 pandemic.  IHSP sites included IA, ID, MI, OK and SD during"
+"2009-2010 season; ID, MI, OH, OK, RI, and UT during the 2010-2011 season; MI, OH, RI, and UT during"
+"the 2011-2012 season; IA, MI, OH, RI, and UT during the 2012-2013 season; and MI, OH, and UT during"
+"the 2013-2014 , 2014-2015 and 2015-2016 seasons.  Cumulative and weekly unadjusted incidence rates"
+"(per 100,000 population) are calculated using the National Center for Health Statistics' (NCHS)"
+population estimates for the counties included in the surveillance catchment area.  The rates
+"provided are likely to be underestimated as influenza-related hospitalizations can be missed,"
+"either because testing is not performed, or because cases may be attributed to other causes of"
+pneumonia or other common influenza-related complications.
