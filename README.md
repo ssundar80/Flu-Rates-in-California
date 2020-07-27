@@ -1,4 +1,6 @@
-Background: We are a start-up pharmaceutical company looking to start a campaign to combat influenza illness in California. Using data resources from the Centers for Disease Control and Prevention and California Health and Human Services Open Data Portal.
+# Background: 
+
+We are a start-up pharmaceutical company looking to start a campaign to combat influenza illness in California. Using data resources from the Centers for Disease Control and Prevention and California Health and Human Services Open Data Portal.
 
 
 Influenza in California: Dapper Dawgs Pharmaceuticals Marketing Team
