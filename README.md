@@ -1,4 +1,4 @@
-![alt text](https://tse1.mm.bing.net/th?id=OIP.yeETIIeocFUPH9dL0XPjjwHaCy&pid=Api&P=0&w=410&h=155)
+![alt text](https://tse1.mm.bing.net/th?id=OIP.Evumlaf3ZTNVVeJ1cpuS0gHaBX&pid=Api&rs=1&c=1&qlt=95&w=586&h=107)
 # TEAM:
 
 Influenza in California: Dapper Dawgs Pharmaceuticals Marketing Team
