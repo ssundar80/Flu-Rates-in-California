@@ -1,12 +1,14 @@
-# Background: 
-
-We are a start-up pharmaceutical company looking to start a campaign to combat influenza illness in California. Using data resources from the Centers for Disease Control and Prevention and California Health and Human Services Open Data Portal.
-
+![alt text](https://corrimal-h.schools.nsw.gov.au/content/dam/doe/sws/schools/c/corrimal-h/news/2019/2/Vaccinations.jpg.thumb.1280.1280.jpg)
+# TEAM:
 
 Influenza in California: Dapper Dawgs Pharmaceuticals Marketing Team
 Joshua, Samir, Araz, Milton, and Karran
 
-PROJECT OVERVIEW:
+# BACKGROUND: 
+
+We are a start-up pharmaceutical company looking to start a campaign to combat influenza illness in California. Using data resources from the Centers for Disease Control and Prevention and California Health and Human Services Open Data Portal.
+
+# PROJECT OVERVIEW:
 
 Task: Create a flu awareness and prevention campaign for the state of California
 Focus: Analyze flu data for California between the years of 2014-2018
@@ -35,8 +37,6 @@ RECOMMENDATIONS:
  1) Start Flu Vaccination Campaign in late summer - early fall (July - September)
  2) Target Southern California (Los Angeles,, San Diego, Orange, San Bernardino)
  3) Although everyone needs to be vaccinated more, this campaign will focus more on: Black and White communities and Ages 18-49
-
-
 
 To view the full presentation of of our findings, then follow the link: 
 
