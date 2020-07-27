@@ -1,4 +1,4 @@
-![alt text](https://corrimal-h.schools.nsw.gov.au/content/dam/doe/sws/schools/c/corrimal-h/news/2019/2/Vaccinations.jpg.thumb.1280.1280.jpg)
+![alt text](https://tse1.mm.bing.net/th?id=OIP.yeETIIeocFUPH9dL0XPjjwHaCy&pid=Api&P=0&w=410&h=155)
 # TEAM:
 
 Influenza in California: Dapper Dawgs Pharmaceuticals Marketing Team
